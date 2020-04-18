@@ -1,6 +1,8 @@
 # Integrantes
-  Usuario pedroarozoa     Pedro Alejandro Rozo Ahumada 
+  Usuario pedroarozoa     Pedro Alejandro Rozo Ahumada
+  
   Usuario Juanf-droid     Juan Felipe Bulla Valencia
+  
   Usuario stevenherream   Steven herrera Monroy
 
 # lab05 : Unidad de suma, resta, multiplicación, división y visualización BCD
