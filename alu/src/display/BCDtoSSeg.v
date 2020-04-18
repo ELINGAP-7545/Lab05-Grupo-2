@@ -1,8 +1,13 @@
-module BCDtoSSeg (BCD, SSeg);
+module BCDtoSSeg (V_SW, G_HEX);
 
-  input [3:0] BCD;
-  output reg [6:0] SSeg;
+   input wire [3:0] V_SW;
+   output wire [6:0] G_HEX;
 
+    reg [6:0] SSeg;
+    wire [3:0]  BCD;
+    
+    assign BCD =V_SW;
+    assign G_HEX = SSeg;
 
 
 always @ ( * ) begin
@@ -14,7 +19,7 @@ always @ ( * ) begin
 	4'b0100: SSeg = 7'b0011001; // "4" 
 	4'b0101: SSeg = 7'b0010010; // "5" 
 	4'b0110: SSeg = 7'b0000010; // "6" 
-	4'b0111: SSeg = 7'b1111000; // "7" 
+    4'b0111: SSeg = 7'b1111000; // "7" 
 	4'b1000: SSeg = 7'b0000000; // "8"  
 	4'b1001: SSeg = 7'b0011000; // "9" 
    4'ha: SSeg = 7'b0001000;  
@@ -25,7 +30,7 @@ always @ ( * ) begin
    4'hf: SSeg = 7'b0001110;
     default:
     SSeg = 0;
-    endcase
+  endcase
 end
 
 endmodule
