@@ -23,12 +23,14 @@ La unidad aritmética, es tal que cuenta con componentes para realizar operacion
 
 Como ejercicio académico, se propone construye una unidad con 4 operaciones aritméticas: suma, resta, multiplicación y división.  de igual manera, el resultados se visualiza en los display de siete segmentos. El flujo de datos y la selección de la operación se realiza acorde a la señal opcode, y segun la siguiente tabla:
 
+![estructural]
 
 opcode | operación  enteros positivos
 00| suma
 01| resta 
 10|  multiplicación
 11| división 
+
 
 Por lo tanto, la unidad debe contar con:
 
@@ -41,8 +43,7 @@ Por lo tanto, la unidad debe contar con:
 ## Diagrama de caja negra
 
 Según las especificaciones anteriormente descrita, la caja funcional de la unidad aritmética propuesta es:
-
-![caja negra](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/lab/lab06_Unidad_aritmetica/doc/cajanegra.png)
+https://meet.google.com/sze-nxnx-azh?pli=1&authuser=0(https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/lab/lab06_Unidad_aritmetica/doc/cajanegra.png)
 
 
 ## Diagrama estructural
