@@ -23,7 +23,7 @@ La unidad aritmética, es tal que cuenta con componentes para realizar operacion
 
 Como ejercicio académico, se propone construye una unidad con 4 operaciones aritméticas: suma, resta, multiplicación y división.  de igual manera, el resultados se visualiza en los display de siete segmentos. El flujo de datos y la selección de la operación se realiza acorde a la señal opcode, y segun la siguiente tabla:
 
-![estructural]
+![estructural] 
 
 opcode | operación  enteros positivos
 00| suma
