@@ -43,7 +43,8 @@ Por lo tanto, la unidad debe contar con:
 ## Diagrama de caja negra
 
 Según las especificaciones anteriormente descrita, la caja funcional de la unidad aritmética propuesta es:
-https://meet.google.com/sze-nxnx-azh?pli=1&authuser=0(https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/lab/lab06_Unidad_aritmetica/doc/cajanegra.png)
+
+pli=1&authuser=0(https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/lab/lab06_Unidad_aritmetica/doc/cajanegra.png)
 
 
 ## Diagrama estructural
