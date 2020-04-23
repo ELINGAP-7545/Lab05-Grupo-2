@@ -67,3 +67,4 @@ El diagrama estructural, se soporta en los componentes desarrollados en los ante
 
  # SOLUCION 
 ## diagrama estructuraL interno de cada bloque funcionar 
+![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/src/sum4bcc/bloque%20funcional%20sum%201.JPG?raw=true)
