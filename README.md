@@ -69,7 +69,19 @@ El diagrama estructural, se soporta en los componentes desarrollados en los ante
 ## diagrama estructuraL interno de cada bloque funcional
 
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/diagram%20de%20flujo.png?raw=true)
+
+![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/operacion%20suma.JPG?raw=true)
+
+![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/operacion%20resta.JPG?raw=true)
+
+![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/operacion%20multiplicacion.JPG?raw=true)
+
+![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/operacion%20division.JPG?raw=true)
+
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/src/sum4bcc/bloque%20funcional%20sum%201.JPG?raw=true)
+
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/src/sum4bcc/bloque%20funcional%20sum%204.JPG?raw=true)
+
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/src/multiplicacion/bloque%20funcional%20multiplicador.JPG?raw=true)
+
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/src/display/bdd%20to%20seggg.JPG?raw=true)
