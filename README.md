@@ -23,7 +23,7 @@ La unidad aritmética, es tal que cuenta con componentes para realizar operacion
 
 Como ejercicio académico, se propone construye una unidad con 4 operaciones aritméticas: suma, resta, multiplicación y división.  de igual manera, el resultados se visualiza en los display de siete segmentos. El flujo de datos y la selección de la operación se realiza acorde a la señal opcode, y segun la siguiente tabla:
 
-![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/diagram%20de%20flujo.png?raw=true)
+
 
 opcode | operación  enteros positivos
 00| suma
@@ -67,6 +67,8 @@ El diagrama estructural, se soporta en los componentes desarrollados en los ante
 
  # SOLUCION 
 ## diagrama estructuraL interno de cada bloque funcional
+
+![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/diagram%20de%20flujo.png?raw=true)
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/src/sum4bcc/bloque%20funcional%20sum%201.JPG?raw=true)
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/src/sum4bcc/bloque%20funcional%20sum%204.JPG?raw=true)
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/src/multiplicacion/bloque%20funcional%20multiplicador.JPG?raw=true)
