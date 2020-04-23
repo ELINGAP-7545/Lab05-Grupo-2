@@ -66,3 +66,4 @@ El diagrama estructural, se soporta en los componentes desarrollados en los ante
   
 
  # SOLUCION 
+## diagrama estructuraL interno de cada bloque funcionar 
