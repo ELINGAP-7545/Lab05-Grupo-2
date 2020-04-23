@@ -1,5 +1,4 @@
-
-module resta3bcc (xi, yi,co,ri,init);
+"module resta3bcc (xi, yi,co,ri,init);
 
 
   input [2 :0] xi;
@@ -22,3 +21,4 @@ module resta3bcc (xi, yi,co,ri,init);
   end
   
 endmodule
+"
