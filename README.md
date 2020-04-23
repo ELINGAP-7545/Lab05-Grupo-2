@@ -70,3 +70,4 @@ El diagrama estructural, se soporta en los componentes desarrollados en los ante
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/src/sum4bcc/bloque%20funcional%20sum%201.JPG?raw=true)
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/src/sum4bcc/bloque%20funcional%20sum%204.JPG?raw=true)
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/src/multiplicacion/bloque%20funcional%20multiplicador.JPG?raw=true)
+![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/src/display/bdd%20to%20seggg.JPG?raw=true)
