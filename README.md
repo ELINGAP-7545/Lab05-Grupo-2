@@ -1,5 +1,6 @@
-# 2020
-the best
+## solucion al final del laboratorio 05
+
+
 # GRUPO-02
 # Integrantes
   Usuario pedroarozoa   |1.Pedro Alejandro Rozo Ahumada
@@ -51,7 +52,12 @@ Según las especificaciones anteriormente descrita, la caja funcional de la unid
 
 ![estructural](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/lab/lab06_Unidad_aritmetica/doc/diagraEstructural.png)
 
+
+
 El diagrama estructural, se soporta en los componentes desarrollados en los anteriores laboratorios. De esta manera,  tanto el sumador, el multiplicador  y el Display, son tomados de los lab2, lab5 y lab4  respectivamente. Adicional a la estructura de cada operación se encuentra el decodificador  y el multiplexador.
+
+con base a lo anterior podemos describir la imagen como un diagrama de caja negra el cual esta constituido por 2 entradas las cuales nombramos como port A Y por B las cuales seran las entradas de los dos valores de 3 bits que deseamos operar, y por otra parte se encuentra la entrada opcode la cual nos permitira definir la operacion a realizar y de esta manera poder ingresar al decodificador que a su vez se encuentra conectado  con el multiplaxor.
+En la alu definimos las operaciones aritmeticas que de encuentran despues del decodificador, las cuales se encuentan definidas como wire init_suma,ire init_resta,ire init_mult,ire init_div
 
 ## Entregables
 
@@ -66,6 +72,11 @@ El diagrama estructural, se soporta en los componentes desarrollados en los ante
   
 
  # SOLUCION 
+ ![estructural](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/lab/lab06_Unidad_aritmetica/doc/diagraEstructural.png)
+ 
+ con base a lo anterior podemos describir la imagen como un diagrama de caja negra el cual esta constituido por 2 entradas las cuales nombramos como port A Y por B las cuales seran las entradas de los dos valores de 3 bits que deseamos operar, y por otra parte se encuentra la entrada opcode la cual nos permitira definir la operacion a realizar y de esta manera poder ingresar al decodificador que a su vez se encuentra conectado  con el multiplaxor.
+En la alu definimos las operaciones aritmeticas que de encuentran despues del decodificador, las cuales se encuentan definidas como wire init_suma,ire init_resta,ire init_mult,ire init_div
+ 
 ## diagrama estructuraL interno de cada bloque funcional
 
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/diagram%20de%20flujo.png?raw=true)
