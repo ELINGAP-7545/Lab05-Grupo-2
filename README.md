@@ -96,7 +96,7 @@ en este diagrama podermos observar la funcionalidad de de cada una de las operac
 
 ![Captura](https://user-images.githubusercontent.com/62779527/80268552-a0780980-866d-11ea-871f-e6a9e0a31f9a.PNG)
 
-##sumador
+## sumador
 
 podemos referenciar el funcionamiento del bloque sumador el cual posee 2 entradas port A y port B los cuales tienen la función de realizar las operaciones en un segmento de bloque como and, xor, or como se muestra en las figuras , al mismo tiempo que el Opcode entra a la caja de suma, en donde después de ejecutar la operación utilizamos un cable el cual nos lleva al multiplicador y de este a los displays    
 
