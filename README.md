@@ -129,9 +129,7 @@ podemos referenciar el funcionamiento del bloque sumador el cual posee 2 entrada
 
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/operacion%20division.JPG?raw=true)
 
-![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/src/sum4bcc/bloque%20funcional%20sum%201.JPG?raw=true)
 
-![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/src/sum4bcc/bloque%20funcional%20sum%204.JPG?raw=true)
 
 
 
