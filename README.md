@@ -72,14 +72,21 @@ En la alu definimos las operaciones aritmeticas que de encuentran despues del de
   
 
  # SOLUCION 
+ 
  ![estructural](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/lab/lab06_Unidad_aritmetica/doc/diagraEstructural.png)
  
  con base a lo anterior podemos describir la imagen como un diagrama de caja negra el cual esta constituido por 2 entradas las cuales nombramos como port A Y por B las cuales seran las entradas de los dos valores de 3 bits que deseamos operar, y por otra parte se encuentra la entrada opcode la cual nos permitira definir la operacion a realizar y de esta manera poder ingresar al decodificador que a su vez se encuentra conectado  con el multiplaxor.
-En la alu definimos las operaciones aritmeticas que de encuentran despues del decodificador, las cuales se encuentan definidas como wire init_suma,ire init_resta,ire init_mult,ire init_div
+En la alu definimos las operaciones aritmeticas que de encuentran despues del decodificador, las cuales se encuentan definidas como wire init_suma,wiire init_resta,wiire init_mult,wiire init_div, las cuales igresan al multiplexor el cual nos define la operacion a realizar y de este nos deja ver el resultado de la operacion en los displays 
+ 
+ 
+ 
+ 
  
 ## diagrama estructuraL interno de cada bloque funcional
 
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/diagram%20de%20flujo.png?raw=true)
+
+en este diagrama podermos observar la funcionalidad de de cada una de las operaciones asignadas al diagrama estructural como lo son suma,resta,multiplicacion y divicion 
 
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/operacion%20suma.JPG?raw=true)
 
