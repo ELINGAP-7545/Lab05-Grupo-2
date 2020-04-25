@@ -121,6 +121,11 @@ podemos referenciar el funcionamiento del bloque sumador el cual posee 2 entrada
 
 
 ## restador
+
+Se realiza la simulación de la Resta de tres bit por el sistema Quartus para validar su funcionamiento.
+
+![Captura](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/src/Simulacion%20Resta3b%20quartus.jpg)
+
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/operacion%20resta.JPG?raw=true)
 
 ## multiplicador
