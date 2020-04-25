@@ -75,8 +75,9 @@ En la alu definimos las operaciones aritmeticas que de encuentran despues del de
  
  ![estructural](https://github.com/Fabeltranm/SPARTAN6-ATMEGA-MAX5864/blob/master/lab/lab06_Unidad_aritmetica/doc/diagraEstructural.png)
  
- con base a lo anterior podemos describir la imagen como un diagrama de caja negra el cual esta constituido por 2 entradas las cuales nombramos como port A Y por B las cuales seran las entradas de los dos valores de 3 bits que deseamos operar, y por otra parte se encuentra la entrada opcode la cual nos permitira definir la operacion a realizar y de esta manera poder ingresar al decodificador que a su vez se encuentra conectado  con el multiplaxor.
-En la alu definimos las operaciones aritmeticas que de encuentran despues del decodificador, las cuales se encuentan definidas como wire init_suma,wiire init_resta,wiire init_mult,wiire init_div, las cuales igresan al multiplexor el cual nos define la operacion a realizar y de este nos deja ver el resultado de la operacion en los displays 
+con base a lo anterior podemos describir la imagen como un diagrama de caja negra el cual esta constituido por 2 entradas las cuales nombramos como port A Y por B las cuales serán las entradas de los dos valores de 3 bits que deseamos operar, y por otra parte se encuentra la entrada Opcode la cual nos permitirá definir la operación a realizar y de esta manera poder ingresar al decodificador que a su vez se encuentra conectado  con el multiplexor.
+En la Alu definimos las operaciones aritméticas que se encuentran después del decodificador, las cuales están definidas como wire init_suma, wiire init_resta, wiire init_mult, wiire init_div, las cuales ingresan al multiplexor el cual nos define la operación a realizar y de este nos deja ver el resultado en los displays
+
  
  
  ![Captura](https://user-images.githubusercontent.com/62779527/80268552-a0780980-866d-11ea-871f-e6a9e0a31f9a.PNG)
@@ -94,6 +95,8 @@ En la alu definimos las operaciones aritmeticas que de encuentran despues del de
 en este diagrama podermos observar la funcionalidad de de cada una de las operaciones asignadas, al diagrama estructural como lo son suma,resta,multiplicacion y divicion las cuales al estar configuradas como en la tabla que se muestra acontinuacion 
 
 ![Captura](https://user-images.githubusercontent.com/62779527/80268552-a0780980-866d-11ea-871f-e6a9e0a31f9a.PNG)
+
+podemos referenciar el funcionamiento del bloque sumador el cual posee 2 entradas port A y port B los cuales tienen la función de realizar las operaciones en un segmento de bloque como and, xor, or como se muestra en las figuras , al mismo tiempo que el Opcode entra a la caja de suma, en donde después de ejecutar la operación utilizamos un cable el cual nos lleva al multiplicador y de este a los displays    
 
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/operacion%20suma.JPG?raw=true)
 
