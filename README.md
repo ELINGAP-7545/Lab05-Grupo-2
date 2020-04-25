@@ -85,8 +85,6 @@ En la Alu definimos las operaciones aritméticas que se encuentran después del 
  ![Captura 2](https://user-images.githubusercontent.com/62779527/80269010-acfe6100-8671-11ea-8d3f-bbd4f189d12e.PNG)
  
  
-![sumador de 3](https://user-images.githubusercontent.com/62779527/80271163-2bafca00-8683-11ea-90a0-7ac4cd72b0a5.PNG)
-
  
  
 ## diagrama estructuraL interno de cada bloque funcional
@@ -105,6 +103,8 @@ podemos referenciar el funcionamiento del bloque sumador el cual posee 2 entrada
 
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/operacion%20suma.JPG?raw=true)
 
+
+![sumador de 3](https://user-images.githubusercontent.com/62779527/80271163-2bafca00-8683-11ea-90a0-7ac4cd72b0a5.PNG)
 
 
 
