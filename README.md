@@ -104,6 +104,8 @@ podemos referenciar el funcionamiento del bloque sumador el cual posee 2 entrada
 
 
 
+
+
 ![or](https://user-images.githubusercontent.com/62779527/80270193-affe4f00-867b-11ea-966e-e862e0df3ef8.PNG)![x-or](https://user-images.githubusercontent.com/62779527/80270200-bf7d9800-867b-11ea-868e-7c6fe4a69722.PNG)![and](https://user-images.githubusercontent.com/62779527/80270206-c9070000-867b-11ea-9734-5718e9c3f259.PNG)
 
 ## sumador de 1 bit
