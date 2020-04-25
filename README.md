@@ -86,9 +86,11 @@ En la alu definimos las operaciones aritmeticas que de encuentran despues del de
 
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/diagram%20de%20flujo.png?raw=true)
 
+![Captura](https://user-images.githubusercontent.com/62779527/80268552-a0780980-866d-11ea-871f-e6a9e0a31f9a.PNG)
+
 en este diagrama podermos observar la funcionalidad de de cada una de las operaciones asignadas al diagrama estructural como lo son suma,resta,multiplicacion y divicion 
 
-![Captura](https://user-images.githubusercontent.com/62779527/80268552-a0780980-866d-11ea-871f-e6a9e0a31f9a.PNG)
+
 
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/operacion%20suma.JPG?raw=true)
 
