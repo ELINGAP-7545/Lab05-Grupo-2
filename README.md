@@ -83,6 +83,9 @@ En la Alu definimos las operaciones aritméticas que se encuentran después del 
  ![Captura](https://user-images.githubusercontent.com/62779527/80268552-a0780980-866d-11ea-871f-e6a9e0a31f9a.PNG)
  
  ![Captura 2](https://user-images.githubusercontent.com/62779527/80269010-acfe6100-8671-11ea-8d3f-bbd4f189d12e.PNG)
+ 
+ 
+![sumador de 3](https://user-images.githubusercontent.com/62779527/80271163-2bafca00-8683-11ea-90a0-7ac4cd72b0a5.PNG)
 
  
  
