@@ -98,14 +98,13 @@ en este diagrama podermos observar la funcionalidad de de cada una de las operac
 
 podemos referenciar el funcionamiento del bloque sumador el cual posee 2 entradas port A y port B los cuales tienen la función de realizar las operaciones en un segmento de bloque como and, xor, or como se muestra en las figuras , al mismo tiempo que el Opcode entra a la caja de suma, en donde después de ejecutar la operación utilizamos un cable el cual nos lleva al multiplicador y de este a los displays    
 
-![or](https://user-images.githubusercontent.com/62779527/80270193-affe4f00-867b-11ea-966e-e862e0df3ef8.PNG)
-
-![x-or](https://user-images.githubusercontent.com/62779527/80270200-bf7d9800-867b-11ea-868e-7c6fe4a69722.PNG)
-
-![and](https://user-images.githubusercontent.com/62779527/80270206-c9070000-867b-11ea-9734-5718e9c3f259.PNG)
-
-
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/operacion%20suma.JPG?raw=true)
+
+
+
+![or](https://user-images.githubusercontent.com/62779527/80270193-affe4f00-867b-11ea-966e-e862e0df3ef8.PNG)![x-or](https://user-images.githubusercontent.com/62779527/80270200-bf7d9800-867b-11ea-868e-7c6fe4a69722.PNG)![and](https://user-images.githubusercontent.com/62779527/80270206-c9070000-867b-11ea-9734-5718e9c3f259.PNG)
+
+
 
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/operacion%20resta.JPG?raw=true)
 
