@@ -130,6 +130,8 @@ Se realiza la simulación de la Resta de tres bit por el sistema Quartus para va
 
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/operacion%20resta.JPG?raw=true)
 
+![Captura](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/src/Simulacion%20Resta3b%20quartus.jpg)
+
 ## multiplicador
 
 Se realizó la simulación por el programa Quartus, la operación multiplicador de tres bit para validar su correcto funcionamiento.
