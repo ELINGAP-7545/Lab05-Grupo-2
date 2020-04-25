@@ -79,7 +79,8 @@ En la alu definimos las operaciones aritmeticas que de encuentran despues del de
 En la alu definimos las operaciones aritmeticas que de encuentran despues del decodificador, las cuales se encuentan definidas como wire init_suma,wiire init_resta,wiire init_mult,wiire init_div, las cuales igresan al multiplexor el cual nos define la operacion a realizar y de este nos deja ver el resultado de la operacion en los displays 
  
  
- 
+ ![Captura](https://user-images.githubusercontent.com/62779527/80268552-a0780980-866d-11ea-871f-e6a9e0a31f9a.PNG)
+
  
  
 ## diagrama estructuraL interno de cada bloque funcional
