@@ -107,10 +107,14 @@ podemos referenciar el funcionamiento del bloque sumador el cual posee 2 entrada
 ![or](https://user-images.githubusercontent.com/62779527/80270193-affe4f00-867b-11ea-966e-e862e0df3ef8.PNG)![x-or](https://user-images.githubusercontent.com/62779527/80270200-bf7d9800-867b-11ea-868e-7c6fe4a69722.PNG)![and](https://user-images.githubusercontent.com/62779527/80270206-c9070000-867b-11ea-9734-5718e9c3f259.PNG)
 
 
-
+## restador
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/operacion%20resta.JPG?raw=true)
 
+## multiplicador
+
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/operacion%20multiplicacion.JPG?raw=true)
+
+## divisor
 
 ![estructural](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/operacion%20division.JPG?raw=true)
 
