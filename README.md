@@ -91,7 +91,7 @@ En la alu definimos las operaciones aritmeticas que de encuentran despues del de
 
 ![Captura](https://user-images.githubusercontent.com/62779527/80268552-a0780980-866d-11ea-871f-e6a9e0a31f9a.PNG)
 
-en este diagrama podermos observar la funcionalidad de de cada una de las operaciones asignadas al diagrama estructural como lo son suma,resta,multiplicacion y divicion 
+en este diagrama podermos observar la funcionalidad de de cada una de las operaciones asignadas, al diagrama estructural como lo son suma,resta,multiplicacion y divicion las cuales al estar configuradas como en la tabla que se muestra acontinuacion regista la operacion 
 
 
 
