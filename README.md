@@ -110,7 +110,7 @@ podemos referenciar el funcionamiento del bloque sumador el cual posee 2 entrada
 
 ![sumador de 3](https://user-images.githubusercontent.com/62779527/80271163-2bafca00-8683-11ea-90a0-7ac4cd72b0a5.PNG)
 
-![Captura](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/src/sum4bcc/Simulacion%20Suma3b%20quartus.jpg)
+![Captura](https://github.com/ELINGAP-7545/lab05-grupo-2/blob/master/alu/Simulador%20LabsLand%20Sumador3b.png)
 
 
 
